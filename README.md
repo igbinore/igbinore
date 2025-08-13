@@ -25,7 +25,7 @@ Simulated SOC dashboard using Splunk/Elastic for alert investigation.
 
 ---
 
-### 3) Log Parser & IOC Extractor *(Coming Soon)*
+### 3) Log Parser & IOC Extractor 
 Parses logs to extract IOCs (domains, IPs, hashes) and enriches via APIs.
 - **Skills:** Log analysis, regex, enrichment
 - **Tech:** Python, Regex, Pandas
@@ -33,10 +33,13 @@ Parses logs to extract IOCs (domains, IPs, hashes) and enriches via APIs.
 
 ---
 
-### 4) Threat Intel Feed Aggregator *(Coming Soon)*
+### 4) Threat Intel Feed Aggregator 
 Aggregates multiple threat intel feeds and de-duplicates indicators.
 - **Skills:** API integration, correlation
 - **Tech:** Python, OTX/AbuseIPDB (APIs), JSON
+- 🔗 Repo: https://github.com/igbinore/threat-intel-feed-aggregator
+  
+---
 
 ### 5) Basic Malware Sandbox Simulation *(Coming Soon)*
 Captures process and network behavior for basic analysis.
