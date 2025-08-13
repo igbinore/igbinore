@@ -17,11 +17,13 @@ Tracks and manages suspected phishing messages with search, filter, and API feat
 
 ---
 
-### 2) SIEM Alert Dashboard *(Coming Soon)*
+### 2) SIEM Alert Dashboard 
 Simulated SOC dashboard using Splunk/Elastic for alert investigation.
 - **Skills:** SPL queries, dashboards, alert tuning
 - **Tech:** Splunk, Elastic, Python
 - 🔗 Repo: https://github.com/igbinore#2-siem-alert-dashboard-coming-soon
+
+---
 
 ### 3) Log Parser & IOC Extractor *(Coming Soon)*
 Parses logs to extract IOCs (domains, IPs, hashes) and enriches via APIs.
