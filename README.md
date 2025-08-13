@@ -21,7 +21,7 @@ Tracks and manages suspected phishing messages with search, filter, and API feat
 Simulated SOC dashboard using Splunk/Elastic for alert investigation.
 - **Skills:** SPL queries, dashboards, alert tuning
 - **Tech:** Splunk, Elastic, Python
-- 🔗 Repo: https://github.com/igbinore#2-siem-alert-dashboard-coming-soon
+- 🔗 Repo: https://github.com/igbinore/siem-alert-dashboard
 
 ---
 
