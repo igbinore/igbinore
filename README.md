@@ -20,7 +20,7 @@ I’ve led initiatives like MFA enforcement, phishing simulations that boosted u
 
 **Project Management**: Jira, Agile, Scrum
 
-**Certifications:** Security+, Network+, PMP
+**Certifications:** Security+, Microsoft Azure(900), GMP, Google IT Support
 
 ---
 
