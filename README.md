@@ -40,10 +40,11 @@ Aggregates multiple threat intel feeds and de-duplicates indicators.
   
 ---
 
-### 5) Basic Malware Sandbox Simulation *(Coming Soon)*
+### 5) Basic Malware Sandbox Simulation 
 Captures process and network behavior for basic analysis.
 - **Skills:** Process monitoring, packet analysis
 - **Tech:** Python, Sysinternals, Wireshark
+- 🔗 Repo: https://github.com/igbinore/basic-malware-sandbox-sim
 
 ---
 
