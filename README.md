@@ -2,11 +2,27 @@
 
 Security Administrator | SOC Analyst | IAM & Microsoft 365 Specialist | Cloud Security
 
-I'm a Security professional with 3+ years in SOC operations, identity governance, and cloud security administration. Experienced in Microsoft Defender, Entra ID/Azure AD, Splunk, Elastic, and Microsoft 365 security controls. Proven track record in reducing false positives, enforcing MFA, optimizing conditional access, and automating workflows with PowerShell and Ansible. Combines technical expertise in endpoint and cloud security with strong skills in threat detection, access governance, and incident response.This portfolio showcases practical, hands-on cybersecurity projects that demonstrate my technical expertise and problem-solving abilities.
+I’m a Cybersecurity Analyst with 3+ years of SOC experience, skilled in threat detection, incident response, and endpoint protection. My background spans hands-on security operations, IAM, cloud security, and backend development.
+
+I’ve led initiatives like MFA enforcement, phishing simulations that boosted user reporting by 60%, and vulnerability remediation efforts that improved response times by 30%. I’m proficient with Microsoft Defender, Splunk, Elastic, Entra ID, PowerShell, and cloud platforms like Azure AD and Microsoft 365. Beyond SOC operations, I enjoy working on security automation, building cybersecurity labs, and developing tools to strengthen detection and response capabilities. 
+
+🔧 Skills & Tools
+
+**Security & Monitoring**: Microsoft Defender, Elastic, Splunk, Sentinel, wireshark
+
+**IAM & Cloud**: Entra ID, Azure AD, Microsoft 365
+
+**Programming & Automation**: PowerShell, Python, Node.js, Ansible, Kubernetes, Javascripts
+
+**Databases**: MySQL, MongoDB
+
+**Project Management**: Jira, Agile, Scrum
+
+**Certifications:** Security+, Network+, PMP
 
 ---
 
-## 📂 Cybersecurity Project Portfolio
+## 📂 Featured Projects
 
 ### 1) Phishing Campaign Tracker
 Tracks and manages suspected phishing messages with search, filter, and API features.
@@ -48,17 +64,7 @@ Captures process and network behavior for basic analysis.
 
 ---
 
-## 🛠️ Skills & Tools
-- **Incident Response:** SOC operations, phishing investigation  
-- **SIEM:** Splunk, Elastic, Microsoft Defender  
-- **IAM:** Microsoft Entra, Active Directory  
-- **Scripting & Automation:** Python, PowerShell  
-- **Cloud:** Microsoft Azure  
-- **Certifications:** Security+, Network+, PMP
-
----
-
-## 📫 Connect
+## 📫 Connect with me
 - **LinkedIn:** https://www.linkedin.com/in/samuel-igbinore-b88658165/
 - **Email:** igbinoresam@gmail.com
 
