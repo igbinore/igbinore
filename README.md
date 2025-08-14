@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Samuel Igbinore
 
-SOC Analyst | Incident Response | Identity & Access Management | Cloud Security
+Security Administrator | SOC Analyst | IAM & Microsoft 365 Specialist | Cloud Security
 
-With 2+ years of experience in **Security Operations Center (SOC)** environments, I specialize in **incident response, threat detection, and identity & access management**.  
-This portfolio showcases practical, hands-on cybersecurity projects that demonstrate my technical expertise and problem-solving abilities.
+I'm a Security professional with 3+ years in SOC operations, identity governance, and cloud security administration. Experienced in Microsoft Defender, Entra ID/Azure AD, Splunk, Elastic, and Microsoft 365 security controls. Proven track record in reducing false positives, enforcing MFA, optimizing conditional access, and automating workflows with PowerShell and Ansible. Combines technical expertise in endpoint and cloud security with strong skills in threat detection, access governance, and incident response.This portfolio showcases practical, hands-on cybersecurity projects that demonstrate my technical expertise and problem-solving abilities.
 
 ---
 
