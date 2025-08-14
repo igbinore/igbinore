@@ -2,10 +2,12 @@
 
 Security Administrator | SOC Analyst | IAM & Microsoft 365 Specialist | Cloud Security
 
+---
 I’m a Cybersecurity Analyst with 3+ years of SOC experience, skilled in threat detection, incident response, and endpoint protection. My background spans hands-on security operations, IAM, cloud security, and backend development.
 
 I’ve led initiatives like MFA enforcement, phishing simulations that boosted user reporting by 60%, and vulnerability remediation efforts that improved response times by 30%. I’m proficient with Microsoft Defender, Splunk, Elastic, Entra ID, PowerShell, and cloud platforms like Azure AD and Microsoft 365. Beyond SOC operations, I enjoy working on security automation, building cybersecurity labs, and developing tools to strengthen detection and response capabilities. 
 
+---
 🔧 Skills & Tools
 
 **Security & Monitoring**: Microsoft Defender, Elastic, Splunk, Sentinel, wireshark
